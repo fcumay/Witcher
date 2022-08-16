@@ -1,7 +1,7 @@
-Witcher Bestiary
+Witcher Bestiary 🐺
 =========
 
-This is Witcher Bestiary 🐺
+This is Witcher Bestiary 
 
 Witcher Bestiary is a site intended to get information about mobs from Witcher game.
 
