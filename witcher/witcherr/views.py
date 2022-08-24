@@ -59,7 +59,7 @@ def pageNotFound(request, exception):
 #     context = {
 #         'post': post,
 #         'manu':menu,
-#         'title':post.title,
+#         'title':post.title, 
 #         'cat_selected': post.cat_id,
 #     }
 #
